@@ -14,7 +14,7 @@
 
 ## 🎨 About Me
 **ASM Mohebullah**  
-Frontend Developer | Aspiring Full-Stack Developer | Bangladesh  
+Frontend Developer | Bangladesh  
 
 I am a passionate Frontend Developer with a vision to evolve into a full-stack professional. I specialize in creating captivating, high-performance web applications that prioritize user experience. My focus is on mastering React, Node.js, and MongoDB, while continuously learning and adapting to new industry tools and frameworks.
 
