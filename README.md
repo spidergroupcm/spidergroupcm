@@ -1,10 +1,4 @@
-<h1 align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hi+I+am+ASM+Mohebullah;Frontend+Developer;Aspiring+Full-Stack+Developer" alt="Typing SVG" />
-  </a>
-</h1>
 
----
 
 <p align="center">
   <img src="https://i.ibb.co/zhKXbLCT/asm-mohebullah-frontend-developer-react.png" alt="cover photo" />
