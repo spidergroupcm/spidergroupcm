@@ -46,8 +46,8 @@ I enjoy fine-tuning animations to deliver flawless user experiences!
 
 ## 🌐 Connect with Me
 <p align="left">
-  <a href="https://twitter.com/asm-mohebullah" target="_blank"><img src="https://i.ibb.co/J5kbfDJ/twitter.png" height="40" alt="Twitter logo" /></a>
-  <a href="https://linkedin.com/in/asm-mohebullah" target="_blank"><img src="https://i.ibb.co/rstNV91/linkedin.png" height="40" alt="LinkedIn logo" /></a>
-  <a href="https://facebook.com/asm.mohebullah" target="_blank"><img src="https://i.ibb.co/xqRJMbd/faceboook.png" height="40" alt="Facebook logo" /></a>
-  <a href="https://youtube.com" target="_blank"><img src="https://i.ibb.co/2MWqpyQ/youtube.png" height="40" alt="YouTube logo" /></a>
+ 
+  <a href="https://www.linkedin.com/in/asm-mohebullah6" target="_blank"><img src="https://i.ibb.co/rstNV91/linkedin.png" height="40" alt="LinkedIn logo" /></a>
+  <a href="https://www.facebook.com/spidergroupcm" target="_blank"><img src="https://i.ibb.co/xqRJMbd/faceboook.png" height="40" alt="Facebook logo" /></a>
+  
 </p>
