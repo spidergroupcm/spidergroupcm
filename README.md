@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://i.ibb.co/SJrzZzj/git-portfolio-final.png" alt="cover photo" />
+  <img src="https://i.ibb.co/zhKXbLCT/asm-mohebullah-frontend-developer-react.png" alt="cover photo" />
 </p>
 
 ---
