@@ -97,3 +97,12 @@ I am a passionate Frontend Developer with a vision to evolve into a full-stack p
   +88 01789711089
 </p>
 
+
+
+## 💬 WhatsApp
+<p align="left">
+  <a href="https://wa.me/1234567890" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" height="40" alt="WhatsApp logo" />
+  </a>
+  +1 (234) 567-890
+</p>
