@@ -56,22 +56,24 @@ I am a passionate Frontend Developer with a vision to evolve into a full-stack p
 
 
 ## 🌱 Currently Learning
-- Next.js, Node.js, and MongoDB  
+- Next.js
 
 ## 🎯 Goals
 - Develop innovative web applications  
 - Build seamless and dynamic user interfaces  
 - Contribute to open-source communities  
 
-## ⚡ Fun Fact
-I enjoy fine-tuning animations to deliver flawless user experiences!
 
 ---
 
 ## 🌐 Connect with Me
 <p align="left">
- 
-  <a href="https://www.linkedin.com/in/asm-mohebullah6" target="_blank"><img src="https://i.ibb.co/Ng1rCWL2/linkedin.png" height="40" alt="LinkedIn logo" /></a>
-  <a href="https://www.facebook.com/spidergroupcm" target="_blank"><img src="https://i.ibb.co/LD0r81NP/facebook.png" height="40" alt="Facebook logo" /></a>
-  
+  <a href="https://www.linkedin.com/in/asm-mohebullah6" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn logo" />
+  </a>
+  <img width="12" />
+  <a href="https://www.facebook.com/spidergroupcm" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Facebook_Logo_2023.png" height="40" alt="Facebook logo" />
+  </a>
 </p>
+
