@@ -59,6 +59,7 @@ I am a passionate Frontend Developer with a vision to evolve into a full-stack p
 
 ![Mohebullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
+
 ### 🔥 Contribution Streak
 
 ![Mohebullah's Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)
@@ -69,9 +70,15 @@ I am a passionate Frontend Developer with a vision to evolve into a full-stack p
 
 ---
 
+### 💻 Tech Stack
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) 
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-
+---
 
 
 ## 🌱 Currently Learning
