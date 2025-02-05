@@ -71,7 +71,7 @@ I am a passionate Frontend Developer with a vision to evolve into a full-stack p
   <a href="https://www.linkedin.com/in/asm-mohebullah6" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn logo" />
   </a>
-  <img width="12" />
+  
   <a href="https://www.facebook.com/spidergroupcm" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="Facebook logo" />
   </a>
