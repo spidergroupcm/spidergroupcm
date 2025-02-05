@@ -53,30 +53,17 @@ I am a passionate Frontend Developer with a vision to evolve into a full-stack p
 </div>
 
 ---
----
-
 ### 📊 GitHub Stats
 
-![Mohebullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
+![Mohebullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=spidergroupcm&show_icons=true&theme=radical)
 
 ### 🔥 Contribution Streak
 
-![Mohebullah's Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)
+![Mohebullah's Streak](https://github-readme-streak-stats.herokuapp.com/?user=spidergroupcm&theme=radical)
 
 ### 🏆 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
-
----
-
-### 💻 Tech Stack
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spidergroupcm&layout=compact&theme=radical)
 
 ---
 
