@@ -60,6 +60,8 @@ I am a passionate Frontend Developer with a vision to evolve into a full-stack p
 ### 🔥 Contribution Streak
 
 ![Mohebullah's Streak](https://github-readme-streak-stats.herokuapp.com/?user=spidergroupcm&theme=radical)
+![Mohebullah's Streak](https://streak-stats.demolab.com/?user=spidergroupcm&theme=radical)
+
 
 ### 🏆 Most Used Languages
 
