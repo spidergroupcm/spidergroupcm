@@ -73,7 +73,7 @@ I am a passionate Frontend Developer with a vision to evolve into a full-stack p
   </a>
   <img width="12" />
   <a href="https://www.facebook.com/spidergroupcm" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Facebook_Logo_2023.png" height="40" alt="Facebook logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="Facebook logo" />
   </a>
 </p>
 
