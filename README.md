@@ -88,3 +88,12 @@ I am a passionate Frontend Developer with a vision to evolve into a full-stack p
   </a>
 </p>
 
+
+## 📱 Phone Number
+<p align="left">
+  <a href="tel:+1234567890">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phone/phone-original.svg" height="40" alt="Phone logo" />
+  </a> 
+  +88 01789711089
+</p>
+
