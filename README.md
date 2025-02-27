@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://i.ibb.co/zhKXbLCT/asm-mohebullah-frontend-developer-react.png" alt="cover photo" />
+  <img src="https://i.ibb.co/fY1JHvPN/asm-mohebullah-web-developer.png" alt="cover photo" />
 </p>
 
 ---
