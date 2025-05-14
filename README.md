@@ -50,8 +50,6 @@ I am a passionate Frontend Developer with a vision to evolve into a full-stack p
   <img width="12" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="40" alt="firebase logo"  />
 </div>
-###
-
 
 <h2 align="left">📊 GitHub Insights</h2>
 
