@@ -51,25 +51,6 @@ I am a passionate Frontend Developer with a vision to evolve into a full-stack p
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="40" alt="firebase logo"  />
 </div>
 
-<h2 align="left">📊 GitHub Insights</h2>
-
-###
-
-<div style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=spidergroupcm&show_icons=true&theme=radical" alt="GitHub Stats" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spidergroupcm&layout=compact&theme=radical" alt="Top Languages" height="200"/>
-</div>
-
-###
-
-
-
-
-
-### 📊 GitHub Stats
-
-![Mohebullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=spidergroupcm&showicons=true&theme=radical)
-
 
 ### 🔗 Connect With Me
 
@@ -92,19 +73,18 @@ I am a passionate Frontend Developer with a vision to evolve into a full-stack p
 
 
 
-
-
-
-
-### 🏆 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spidergroupcm&layout=compact&theme=radical)
-
----
-
-
 ## 🌱 Currently Learning
-- Next.js
+<div align="left">
+ 
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo" />
+  <img width="12" />
+</div>
+
+
+
+
 
 ## 🎯 Goals
 - Develop innovative web applications  
