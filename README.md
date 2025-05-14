@@ -121,25 +121,6 @@ I am a passionate Frontend Developer with a vision to evolve into a full-stack p
 
 ---
 
-## 🌐 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/asm-mohebullah6" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn logo" />
-  </a>
-  
-  <a href="https://www.facebook.com/spidergroupcm" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="Facebook logo" />
-  </a>
-</p>
-
-
-## 📱 Phone Number
-<p align="left">
-  <a href="tel: +88 01789711089">
-    
-  </a> 
-  +88 01789711089
-</p>
 
 
 
