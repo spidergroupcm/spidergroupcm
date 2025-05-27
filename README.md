@@ -11,7 +11,7 @@
 I'm a Full-Stack Web Developer who enjoys building fast, scalable, and user-friendly web applications. I have experience creating clean, responsive, and accessible designs on the frontend and reliable, secure systems on the backend. I love turning ideas into smooth, real-world digital experiences that people genuinely enjoy using.
 
 ---
-## 🌱 My Tech Stack
+## 🛠️ My Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=black" height="32">
@@ -91,17 +91,11 @@ I'm a Full-Stack Web Developer who enjoys building fast, scalable, and user-frie
 
 
 
-🚀 My Goals
+## 🚀 My Goals
+
 <div align="left" style="font-size: 1.1rem"> <img src="https://raw.githubusercontent.com/roshanrahman/icons/main/animated/loading_gear.gif" width="24" style="vertical-align: middle;" /> <strong> Build innovative, high-impact web applications</strong> <span style="color: #aaa;">⟶ Solving real-world problems with scalable, full-stack solutions</span> <br/> <img src="https://raw.githubusercontent.com/roshanrahman/icons/main/animated/design.gif" width="24" style="vertical-align: middle;" /> <strong> Craft smooth, dynamic, and delightful user experiences</strong> <span style="color: #aaa;">⟶ Focused on clean UI, accessibility, and responsiveness</span> <br/> <img src="https://raw.githubusercontent.com/roshanrahman/icons/main/animated/community.gif" width="24" style="vertical-align: middle;" /> <strong> Collaborate with and contribute to inspiring open-source communities</strong> <span style="color: #aaa;">⟶ Sharing knowledge, growing together, and building in public</span> </div>
 
 
-## 🚀 My Goals
-
-- 🚧 Build innovative, high-impact web applications that solve real problems  
-- 🎨 Craft smooth, dynamic, and delightful user experiences  
-- 🤝 Collaborate with and contribute to inspiring open-source communities  
-
----
 
 
 <img 
