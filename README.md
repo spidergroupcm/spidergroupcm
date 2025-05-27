@@ -11,6 +11,7 @@
 I'm a Full-Stack Web Developer who enjoys building fast, scalable, and user-friendly web applications. I have experience creating clean, responsive, and accessible designs on the frontend and reliable, secure systems on the backend. I love turning ideas into smooth, real-world digital experiences that people genuinely enjoy using.
 
 ---
+## 🌱 My Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=black" height="32">
@@ -54,54 +55,44 @@ I'm a Full-Stack Web Developer who enjoys building fast, scalable, and user-frie
 [![trophy](https://github-profile-trophy.vercel.app/?username=spidergroupcm&theme=onedark)](https://github.com/spidergroupcm)
 ###
 
+
 ### 🔗 Connect With Me
 
-<div align="left">
+<p>
   <a href="https://asm-mohebullah369.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=react&label=&color=61DAFB&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio link" />
+    <img src="https://img.shields.io/static/v1?label=&message=Portfolio&color=000000&logo=react&logoColor=61DAFB" height="32" alt="Portfolio" />
   </a>
   <a href="mailto:spidergroupcm@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+    <img src="https://img.shields.io/static/v1?label=&message=Gmail&color=D14836&logo=gmail&logoColor=white" height="32" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/asm-mohebullah6/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&logo=linkedin&logoColor=white" height="32" alt="LinkedIn" />
   </a>
   <a href="https://x.com/asm_mohebullah" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
+    <img src="https://img.shields.io/static/v1?label=&message=Twitter&color=1DA1F2&logo=twitter&logoColor=white" height="32" alt="Twitter" />
   </a>
   <a href="https://wa.me/8801789711089" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" />
+    <img src="https://img.shields.io/static/v1?label=&message=WhatsApp&color=25D366&logo=whatsapp&logoColor=white" height="32" alt="WhatsApp" />
   </a>
   <a href="https://www.facebook.com/spidergroupgm" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
+    <img src="https://img.shields.io/static/v1?label=&message=Facebook&color=1877F2&logo=facebook&logoColor=white" height="32" alt="Facebook" />
   </a>
-  
-</div>
-
----
-
-
+</p>
 
 
 ## 🌱 Currently Learning
-<div align="left">
 
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Zod-3E4E88?logo=zod&logoColor=white&style=for-the-badge" height="40" alt="zod logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?logo=reacthookform&logoColor=white&style=for-the-badge" height="40" alt="react hook form logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Framer%20Motion-EF0078?logo=framer&logoColor=white&style=for-the-badge" height="40" alt="framer motion logo" />
-
-</div>
+<p align="left">
+  <img src="https://img.shields.io/static/v1?label=&message=Zod&color=3E4E88&logo=zod&logoColor=white" height="32" alt="Zod" />
+  <img src="https://img.shields.io/static/v1?label=&message=Prisma&color=2D3748&logo=prisma&logoColor=white" height="32" alt="Prisma" />
+  <img src="https://img.shields.io/static/v1?label=&message=Stripe&color=008CDD&logo=stripe&logoColor=white" height="32" alt="Stripe" />
+  <img src="https://img.shields.io/static/v1?label=&message=Cloudinary&color=3448C5&logo=cloudinary&logoColor=white" height="32" alt="Cloudinary" />
+</p>
 
 
 
-
-
-
-
+🚀 My Goals
+<div align="left" style="font-size: 1.1rem"> <img src="https://raw.githubusercontent.com/roshanrahman/icons/main/animated/loading_gear.gif" width="24" style="vertical-align: middle;" /> <strong> Build innovative, high-impact web applications</strong> <span style="color: #aaa;">⟶ Solving real-world problems with scalable, full-stack solutions</span> <br/> <img src="https://raw.githubusercontent.com/roshanrahman/icons/main/animated/design.gif" width="24" style="vertical-align: middle;" /> <strong> Craft smooth, dynamic, and delightful user experiences</strong> <span style="color: #aaa;">⟶ Focused on clean UI, accessibility, and responsiveness</span> <br/> <img src="https://raw.githubusercontent.com/roshanrahman/icons/main/animated/community.gif" width="24" style="vertical-align: middle;" /> <strong> Collaborate with and contribute to inspiring open-source communities</strong> <span style="color: #aaa;">⟶ Sharing knowledge, growing together, and building in public</span> </div>
 
 
 ## 🚀 My Goals
