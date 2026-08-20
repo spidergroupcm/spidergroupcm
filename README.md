@@ -14,15 +14,7 @@ I'm **ASM Mohebullah**, a passionate Fullstack Web Developer who loves building 
 * 🛠️ Always experimenting with new tools & frameworks
 
 
-## 👋 Hello, I'm **ASM Mohebullah** |  Front-End Developer 
-
-
-## 🎯 About Me
-
-I'm a Full-Stack Web Developer who enjoys building fast, scalable, and user-friendly web applications. I have experience creating clean, responsive, and accessible designs on the frontend and reliable, secure systems on the backend. I love turning ideas into smooth, real-world digital experiences that people genuinely enjoy using.
-
-
-## 🛠️ My Tech Stack
+# 🛠️ My Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=black" height="32">
