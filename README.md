@@ -53,10 +53,7 @@ I'm **ASM Mohebullah**, a passionate Fullstack Web Developer who loves building 
 
 ###
 
-<!-- <div style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=spidergroupcm&show_icons=true&theme=radical" alt="GitHub Stats" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spidergroupcm&layout=compact&theme=radical" alt="Top Languages" height="200"/>
-</div> -->
+
 
 <img 
   src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spidergroupcm&theme=vision_friendly_dark" 
@@ -64,21 +61,10 @@ I'm **ASM Mohebullah**, a passionate Fullstack Web Developer who loves building 
   style="width: 90%;" 
 />
 
-###
-[![trophy](https://github-profile-trophy.vercel.app/?username=spidergroupcm&theme=onedark)](https://github.com/spidergroupcm)
-###
 
 
 
 
-## 🌱 Currently Learning
-
-<p align="left">
-  <img src="https://img.shields.io/static/v1?label=&message=Zod&color=3E4E88&logo=zod&logoColor=white" height="32" alt="Zod" />
-  <img src="https://img.shields.io/static/v1?label=&message=Prisma&color=2D3748&logo=prisma&logoColor=white" height="32" alt="Prisma" />
-  <img src="https://img.shields.io/static/v1?label=&message=Stripe&color=008CDD&logo=stripe&logoColor=white" height="32" alt="Stripe" />
-  <img src="https://img.shields.io/static/v1?label=&message=Cloudinary&color=3448C5&logo=cloudinary&logoColor=white" height="32" alt="Cloudinary" />
-</p>
 
 
 
