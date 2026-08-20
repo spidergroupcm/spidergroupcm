@@ -49,11 +49,9 @@ I'm **ASM Mohebullah**, a passionate Fullstack Web Developer who loves building 
 * **Facebook:** <a href="https://www.facebook.com/spidergroupgm" target="_blank">Spider Group</a>
 
 
-<h2 align="left">📊 GitHub Insights</h2>
+# <h2 align="left">📊 GitHub Insights</h2>
 
 ###
-
-
 
 <img 
   src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spidergroupcm&theme=vision_friendly_dark" 
@@ -63,12 +61,7 @@ I'm **ASM Mohebullah**, a passionate Fullstack Web Developer who loves building 
 
 
 
-
-
-
-
-
-## 🚀 My Goals
+# 🚀 My Goals
 
 <div align="left" style="font-size: 1.1rem"> <img src="https://raw.githubusercontent.com/roshanrahman/icons/main/animated/loading_gear.gif" width="24" style="vertical-align: middle;" /> <strong> Build innovative, high-impact web applications</strong> <span style="color: #aaa;">⟶ Solving real-world problems with scalable, full-stack solutions</span> <br/> <img src="https://raw.githubusercontent.com/roshanrahman/icons/main/animated/design.gif" width="24" style="vertical-align: middle;" /> <strong> Craft smooth, dynamic, and delightful user experiences</strong> <span style="color: #aaa;">⟶ Focused on clean UI, accessibility, and responsiveness</span> <br/> <img src="https://raw.githubusercontent.com/roshanrahman/icons/main/animated/community.gif" width="24" style="vertical-align: middle;" /> <strong> Collaborate with and contribute to inspiring open-source communities</strong> <span style="color: #aaa;">⟶ Sharing knowledge and growing together</span> </div>
 
