@@ -53,10 +53,10 @@ I'm **ASM Mohebullah**, a passionate Fullstack Web Developer who loves building 
 
 ###
 
-<div style="display: flex; align-items: center; gap: 10px;">
+<!-- <div style="display: flex; align-items: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=spidergroupcm&show_icons=true&theme=radical" alt="GitHub Stats" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spidergroupcm&layout=compact&theme=radical" alt="Top Languages" height="200"/>
-</div>
+</div> -->
 
 <img 
   src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spidergroupcm&theme=vision_friendly_dark" 
