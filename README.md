@@ -4,7 +4,14 @@
   <img src="https://i.ibb.co/fY1JHvPN/asm-mohebullah-web-developer.png" alt="cover photo" />
 </p>
 
+# ✨ Who am I?
+I'm **ASM Mohebullah**, a passionate Fullstack Web Developer who loves building awesome web applications. 
 
+# 🚀 What I Do
+
+* 🔥 Fullstack web development (Frontend & Backend)
+* 💡 Love working with modern web technologies
+* 🛠️ Always experimenting with new tools & frameworks
 
 
 ## 👋 Hello, I'm **ASM Mohebullah** |  Front-End Developer 
