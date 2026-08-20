@@ -72,5 +72,5 @@ I'm **ASM Mohebullah**, a passionate Fullstack Web Developer who loves building 
   width="100%" 
   title="Coder Banner" 
   alt="Code Debug Deploy Repeat" 
-  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,9&height=180&section=footer&text=💻%20CODE%20•%20DEBUG%20•%20DEPLOY%20•%20REPEAT%20🚀&fontSize=25&fontColor=000000&animation=twinkling&fontAlignY=75"
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,9&height=180&section=footer&text=%20CODE%20•%20DEBUG%20•%20DEPLOY%20•%20REPEAT%20&fontSize=25&fontColor=000000&animation=twinkling&fontAlignY=75"
 />
