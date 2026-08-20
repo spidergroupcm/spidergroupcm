@@ -49,33 +49,6 @@ I'm **ASM Mohebullah**, a passionate Fullstack Web Developer who loves building 
 * **Facebook:** <a href="https://www.facebook.com/spidergroupgm" target="_blank">Spider Group</a>
 
 
-
-
-
-# 🔗 Connect With Me
-
-<p>
-  <a href="https://asm-mohebullah369.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=Portfolio&color=000000&logo=react&logoColor=61DAFB" height="32" alt="Portfolio" />
-  </a>
-  <a href="mailto:spidergroupcm@gmail.com">
-    <img src="https://img.shields.io/static/v1?label=&message=Gmail&color=D14836&logo=gmail&logoColor=white" height="32" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/asm-mohebullah6/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&logo=linkedin&logoColor=white" height="32" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/asm_mohebullah" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=Twitter&color=1DA1F2&logo=twitter&logoColor=white" height="32" alt="Twitter" />
-  </a>
-  <a href="https://wa.me/8801789711089" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=WhatsApp&color=25D366&logo=whatsapp&logoColor=white" height="32" alt="WhatsApp" />
-  </a>
-  <a href="https://www.facebook.com/spidergroupgm" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=Facebook&color=1877F2&logo=facebook&logoColor=white" height="32" alt="Facebook" />
-  </a>
-</p>
-
-
 <h2 align="left">📊 GitHub Insights</h2>
 
 ###
