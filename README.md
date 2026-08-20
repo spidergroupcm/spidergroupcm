@@ -18,6 +18,28 @@ I'm **ASM Mohebullah**, a passionate Fullstack Web Developer who loves building 
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=black" height="32">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="32">
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" height="32">
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="32">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="32">
+  <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="32">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="32">
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" height="32">
+  <img src="https://img.shields.io/badge/RAG-412991?logo=openai&logoColor=white" height="32">
+  <img src="https://img.shields.io/badge/VectorDB-FF6F00?logo=datacamp&logoColor=white" height="32">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="32">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="32">
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" height="32">
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="32">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white" height="32">
+  <img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white" height="32">
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?logo=langchain&logoColor=white" height="32">
+  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white" height="32">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" height="32">
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=black" height="32">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="32">
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="32">
   <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" height="32">
