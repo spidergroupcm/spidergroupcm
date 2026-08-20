@@ -98,7 +98,11 @@ I'm a Full-Stack Web Developer who enjoys building fast, scalable, and user-frie
 
 <div align="left" style="font-size: 1.1rem"> <img src="https://raw.githubusercontent.com/roshanrahman/icons/main/animated/loading_gear.gif" width="24" style="vertical-align: middle;" /> <strong> Build innovative, high-impact web applications</strong> <span style="color: #aaa;">⟶ Solving real-world problems with scalable, full-stack solutions</span> <br/> <img src="https://raw.githubusercontent.com/roshanrahman/icons/main/animated/design.gif" width="24" style="vertical-align: middle;" /> <strong> Craft smooth, dynamic, and delightful user experiences</strong> <span style="color: #aaa;">⟶ Focused on clean UI, accessibility, and responsiveness</span> <br/> <img src="https://raw.githubusercontent.com/roshanrahman/icons/main/animated/community.gif" width="24" style="vertical-align: middle;" /> <strong> Collaborate with and contribute to inspiring open-source communities</strong> <span style="color: #aaa;">⟶ Sharing knowledge and growing together</span> </div>
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/spidergroupcm/spidergroupcm/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/spidergroupcm/spidergroupcm/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/spidergroupcm/spidergroupcm/output/github-snake.svg" />
+</picture>
 
 
 <img 
